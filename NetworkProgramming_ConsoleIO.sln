@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkProgramming_ConsoleIO", "NetworkProgramming_ConsoleIO.csproj", "{DC819695-D96D-44B1-8373-FB7963A5832B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestClient", "..\TestClient\TestClient.csproj", "{A1CB5856-D902-4CA4-B8C0-FA142CF3B379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC819695-D96D-44B1-8373-FB7963A5832B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC819695-D96D-44B1-8373-FB7963A5832B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC819695-D96D-44B1-8373-FB7963A5832B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CB5856-D902-4CA4-B8C0-FA142CF3B379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CB5856-D902-4CA4-B8C0-FA142CF3B379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CB5856-D902-4CA4-B8C0-FA142CF3B379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CB5856-D902-4CA4-B8C0-FA142CF3B379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
