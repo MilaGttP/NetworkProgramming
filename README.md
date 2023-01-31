@@ -1,4 +1,4 @@
-# Домашя робота з теми "UDP introduction"
+# Домашня робота з теми "UDP introduction"
 
 #Завдання 1.
 
