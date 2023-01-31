@@ -22,11 +22,11 @@ namespace NetworkProgramming_ConsoleIO
 
         private static void InitializeQuotes()
         {
-            quotes.Add("The only way to do great work is to love what you do. -Steve Jobs");
-            quotes.Add("If you can dream it, you can do it. -Walt Disney");
-            quotes.Add("Success is not final; failure is not fatal: It is the courage to continue that counts. -Winston Churchill");
-            quotes.Add("Don't watch the clock; do what it does. Keep going. -Sam Levenson");
-            quotes.Add("The best way to get started is to quit talking and begin doing. -Walt Disney");
+            quotes.Add("The only way to do great work is to love what you do. - Steve Jobs");
+            quotes.Add("If you can dream it, you can do it. - Walt Disney");
+            quotes.Add("Success is not final; failure is not fatal: It is the courage to continue that counts. - Winston Churchill");
+            quotes.Add("Don't watch the clock; do what it does. Keep going. - Sam Levenson");
+            quotes.Add("The best way to get started is to quit talking and begin doing. - Walt Disney");
         }
 
         private static void StartListening()
